@@ -1,9 +1,6 @@
 # 🔧 Fix: Windows 11 Virtualization (VMware/VirtualBox)
 
 Troubleshooting guide to force disable VBS/HVCI and enable native virtualization performance on Windows 11 (24H2).
-
-## 🚀 [READ THE FULL GUIDE ON NOTION](https://www.notion.so/Guide-Preparing-Windows-11-25H2-for-Native-Virtualization-Disable-Hyper-V-VBS-HVCI-2f0f1bb9a5648097b9a2f61106449018)
-
 🛠️ Guide: Preparing Windows 11 (25H2) for Native Virtualization (Disable Hyper-V/VBS/HVCI)
 
 Many IT professionals and students face severe performance issues (lag, audio distortion, "VTx not available" errors) when running virtualization software like VMware, VirtualBox, or EVE-NG on modern Windows versions (especially Windows 11 24H2-25H2).
