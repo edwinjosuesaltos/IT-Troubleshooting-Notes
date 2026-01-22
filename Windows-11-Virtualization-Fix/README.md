@@ -1,4 +1,4 @@
-# 🔧 Fix: Windows 11 Virtualization (VMware/VirtualBox)
+# 🔧 Fix: Windows 10-11 Virtualization (24H2-25H2)
 
 Troubleshooting guide to force disable VBS/HVCI and enable native virtualization performance on Windows 11 (24H2).
 🛠️ Guide: Preparing Windows 11 (25H2) for Native Virtualization (Disable Hyper-V/VBS/HVCI)
